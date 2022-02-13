@@ -1,0 +1,37 @@
+.TahaInto{
+    display: none;
+}
+
+.Nityamam{
+box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.11);
+}
+.Zaidisir{
+    box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.11);  
+}
+.Nityamam:hover{
+
+    box-shadow: 0 0 10px 10px #fffcee;
+}
+.Zaidisir:hover{
+
+    box-shadow: 0 0 10px 10px #15d0f509;
+}
+
+.parateam{    
+    font-weight: 500;
+color: #455a64;
+line-height: 30px;}
+
+.LboxH{
+    color: #01818c;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+
+.LboxP{
+color: #455a64;
+font-family: 'Roboto';
+font-size: 14px;
+font-weight: 300;
+line-height: 20px;
+}
